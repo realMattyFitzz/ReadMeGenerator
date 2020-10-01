@@ -1,5 +1,3 @@
-# ReadMeGenerator
-
   ![license badge](https://img.shields.io/badge/license-mine-blue)
   # ReadMeGenerator
   ## DESCRIPTION
